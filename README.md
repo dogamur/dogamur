@@ -7,5 +7,5 @@
 ### You can find me on
 [linkedin]: www.linkedin.com/in/doğa-murabıt-003531246
 
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/[ICON SLUG].svg" />][linkedin]
+[<img height="32" width="32" src="[https://unpkg.com/simple-icons@v8/icons/[ICON SLUG].svg](https://icons8.com/icon/80451/linkedin-circled)" />][linkedin]
 
