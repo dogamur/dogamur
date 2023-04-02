@@ -1,11 +1,17 @@
-## Heyy, it's Doğa. :sparkles::fairy:
+<h1 align="center">Hi 👋, I'm Doğa</h1>
+<h3 align="center">A passionate maths student learning to code</h3>
 
-#### I am a maths student learning to code. Currently obsessed with ai and ml although it is painful:heartbeat:
+- 📫 How to reach me **dogamurabit@gmail.com**
 
-<img src="https://media.giphy.com/media/jsrzmkHrdk5ND4CE4Y/giphy.gif" align=right width=400px height= 400px>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://kaggle.com/doamurabit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="doamurabit" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/dogamurabit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dogamurabit" height="30" width="40" /></a>
+</p>
 
-### You can find me on
-[linkedin]: www.linkedin.com/in/doğa-murabıt-003531246
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
+
 
 [<img height="32" width="32" src="[https://unpkg.com/simple-icons@v8/icons/[ICON SLUG].svg](https://icons8.com/icon/80451/linkedin-circled)" />][linkedin]
 
